@@ -97,8 +97,9 @@ background-image: url("geometric-1732847_1920");
   -ms-grid-column: 1;
   -ms-grid-column-span: 4;
   grid-column: 1 / 5;
-/*   overflow: hidden; */
+  overflow: hidden;
  margin-top: -50px;
+	z-index: -1000;
 
 }
 #container3 {
