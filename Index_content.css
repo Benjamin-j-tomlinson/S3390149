@@ -99,8 +99,7 @@ main > *:nth-child(15) {
   grid-column: 1 / 5;
   overflow: hidden;
  margin-top: -50px;
--webkit-box-shadow: 5px 6px 2px -1px rgba(0,0,0,0.4) ;
-box-shadow: 5px 6px 2px -1px rgba(0,0,0,0.4) ;
+
 
 }
 #container3 {
