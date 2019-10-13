@@ -87,7 +87,7 @@ main > *:nth-child(15) {
 #tech
 {
   background-image: url("geometric-1732847_1920.jpg");
-  width: 98vw;
+  width: 50%;
   height: 50vh;
   background-size: cover;
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@ main > *:nth-child(15) {
   -ms-grid-column: 1;
   -ms-grid-column-span: 4;
   grid-column: 1 / 5;
-  overflow: hidden;
+/*   overflow: hidden; */
  margin-top: -50px;
 
 }
