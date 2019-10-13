@@ -95,10 +95,12 @@ main > *:nth-child(15) {
   -ms-grid-row: 2;
   grid-row: 2;
   -ms-grid-column: 1;
-  -ms-grid-column-span: 4;
+  -ms-grid-column-span: 5;
   grid-column: 1 / 5;
   overflow: hidden;
  margin-top: -50px;
+	-webkit-box-shadow: 4px 3px 3px 2px rgba(0,0,0,0.4) ;
+box-shadow: 4px 3px 3px 2px rgba(0,0,0,0.4) ;
 
 }
 #container3 {
