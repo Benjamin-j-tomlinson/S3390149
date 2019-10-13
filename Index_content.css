@@ -99,7 +99,8 @@ background-image: url("geometric-1732847_1920");
   grid-column: 1 / 5;
   overflow: hidden;
  margin-top: -50px;
-	z-index: -1000;
+	z-index: 1000;
+	
 
 }
 #container3 {
